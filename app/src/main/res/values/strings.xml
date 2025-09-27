@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Household Manager</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_bills">Bills</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_groceries">Groceries</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- House Setup -->
+    <string name="house_setup_title">Set Up Your House</string>
+    <string name="house_name_hint">Enter house name</string>
+    <string name="house_type_apartment">Apartment</string>
+    <string name="house_type_house">House</string>
+    <string name="house_type_condo">Condo</string>
+    <string name="house_type_townhouse">Townhouse</string>
+    <string name="continue_button">Continue</string>
+    
+    <!-- Bills -->
+    <string name="bills_title">Bills</string>
+    <string name="add_bill">Add Bill</string>
+    <string name="bill_name">Bill Name</string>
+    <string name="bill_amount">Amount</string>
+    <string name="bill_due_date">Due Date</string>
+    <string name="bill_type_fixed">Fixed Rate</string>
+    <string name="bill_type_manual">Manual Entry</string>
+    <string name="bill_reminder">Set Reminder</string>
+    
+    <!-- Tasks -->
+    <string name="tasks_title">Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Description</string>
+    <string name="task_priority">Priority</string>
+    <string name="task_assignee">Assignee</string>
+    <string name="task_due_date">Due Date</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+    
+    <!-- Groceries -->
+    <string name="groceries_title">Groceries &amp; Fridge</string>
+    <string name="add_grocery">Add Item</string>
+    <string name="grocery_name">Item Name</string>
+    <string name="grocery_quantity">Quantity</string>
+    <string name="grocery_expiry_date">Expiry Date</string>
+    <string name="grocery_category">Category</string>
+    <string name="meal_planning">Meal Planning</string>
+    
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+</resources>
